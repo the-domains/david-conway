@@ -4,7 +4,7 @@
         <description><![CDATA[DAVID CONWAY]]></description>
         <link>https://thegrid.ai/david-conway/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Oct 2015 18:29:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2015 18:29:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/david-conway/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TEST POSTS]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/david-conway/test-posts/index.html</link>
             <guid isPermaLink="false">fe5515af-166b-4510-b77c-023244afb0fd</guid>
             <pubDate>Wed, 21 Oct 2015 18:27:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NEW GEN TECH]]></title>
+            <description><![CDATA[<article><h1>NEW GEN TECH</h1><p>THIS IS THE NEXT WAVE OF WEBSITE BUILDING</p></article>]]></description>
+            <link>https://thegrid.ai/david-conway/new-gen-tech/index.html</link>
+            <guid isPermaLink="false">56f84fad-c03f-4b38-a870-2c1a7ec29bd5</guid>
+            <pubDate>Wed, 21 Oct 2015 18:28:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[N.B.A CHAMPS]]></title>
