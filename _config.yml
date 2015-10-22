@@ -1,23 +1,39 @@
-name: DAVID CONWAY
-favicon: null
-layout_spectrum: 0.50781
-typography_spectrum: 0.23892763536423445
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors: []
-  brandStrength: 1
-  lightness: 0.7547052288427949
-  saturation: 0.7634959537535906
-  rhythmicContrast: 0.7148311284836382
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.9139785
+  lightness: 0.9516129
+  brandStrength: 1
+  brandColors:
+    - '#896453'
+    - '#F2F2E8'
+    - '#B57F54'
+    - '#D6C7A5'
+  rhythmicContrast: 0.8512545
+typography_spectrum: 0
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.5232975
+favicon: null
+name: DAVID CONWAY
