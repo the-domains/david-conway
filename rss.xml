@@ -4,7 +4,7 @@
         <description><![CDATA[DAVID CONWAY]]></description>
         <link>https://thegrid.ai/david-conway/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 Nov 2015 01:40:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2015 01:44:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/david-conway/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TEST POSTS]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/david-conway/new-gen-tech/index.html</link>
             <guid isPermaLink="false">56f84fad-c03f-4b38-a870-2c1a7ec29bd5</guid>
             <pubDate>Mon, 09 Nov 2015 01:39:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[N.B.A CHAMPS]]></title>
-            <description><![CDATA[<article><h1>N.B.A CHAMPS</h1><p>GOLDEN STATE WARRIORS</p></article>]]></description>
-            <link>https://thegrid.ai/david-conway/nba-champs/index.html</link>
-            <guid isPermaLink="false">9701bb11-4a6f-4cf8-9f47-dc4995031112</guid>
-            <pubDate>Mon, 09 Nov 2015 01:38:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
