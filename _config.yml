@@ -1,7 +1,4 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+name: DAVID CONWAY
 opengraph:
   image: null
   type: null
@@ -12,28 +9,32 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.9139785
   lightness: 0.9516129
   brandStrength: 1
   brandColors:
-    - '#896453'
-    - '#F2F2E8'
-    - '#B57F54'
-    - '#D6C7A5'
+    - '#0F0B0C'
+    - '#FBD780'
+    - '#FFFFB6'
+    - '#775C42'
+    - '#9A5404'
   rhythmicContrast: 0.8512545
-typography_spectrum: 0
+typography_spectrum: 0.5
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.5232975
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 favicon: null
-name: DAVID CONWAY
+layout_spectrum: 0.5232975
