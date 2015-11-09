@@ -27,14 +27,14 @@ color:
     - '#775C42'
     - '#9A5404'
   rhythmicContrast: 0.8512545
-typography_spectrum: 0.5
+typography_spectrum: 0
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 0
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-layout_spectrum: 0.5232975
