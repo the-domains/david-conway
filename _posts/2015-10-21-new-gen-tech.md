@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: HOT......
-datePublished: '2015-10-21T18:28:16.508Z'
-dateModified: '2015-10-21T18:27:10.259Z'
+datePublished: '2015-11-09T01:39:39.687Z'
+dateModified: '2015-10-21T18:28:16.508Z'
 title: NEW GEN TECH
 authors: []
 publisher:
