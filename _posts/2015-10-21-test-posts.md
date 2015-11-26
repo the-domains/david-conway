@@ -6,17 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-09T01:39:40.017Z'
-dateModified: '2015-10-21T18:27:47.414Z'
+datePublished: '2015-11-26T06:27:17.044Z'
+dateModified: '2015-11-09T21:08:38.763Z'
 title: TEST POSTS
+sourcePath: _posts/2015-10-21-test-posts.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-21-test-posts.md
-published: true
+author: []
 url: test-posts/index.html
 _type: Article
 
